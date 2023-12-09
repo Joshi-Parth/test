@@ -1,0 +1,14 @@
+Company Name: ABC Industries
+Address: 123 Main Street, Cityville, State
+Phone: (555) 555-1234
+Email: info@abcindustries.com
+
+Company Name: XYZ Corporation
+Address: 456 Elm Street, Townsville, State
+Phone: (555) 555-5678
+Email: contact@xyzcorp.com
+
+Company Name: Example Company
+Address: 789 Oak Street, Villagetown, State
+Phone: (555) 555-9012
+Email: support@exampleco.com
